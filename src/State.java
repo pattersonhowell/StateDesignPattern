@@ -1,4 +1,6 @@
-
+/*
+ * Interface that holds methods for each state
+ */
 public interface State {
 
 	public void pressHomeButton();
