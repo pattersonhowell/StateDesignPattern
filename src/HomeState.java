@@ -1,5 +1,7 @@
-/*
+/**
  * Base class for Home (screen)
+ * @author pattersonhowell
+ *
  */
 public class HomeState implements State {
 	

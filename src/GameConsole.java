@@ -1,5 +1,7 @@
-/* Patterson Howell
- * Base Class for consoles
+/**
+ * Base class for consoles
+ * @author pattersonhowell
+ *
  */
 public class GameConsole {
 
@@ -64,22 +66,25 @@ public class GameConsole {
 		this.state = state;
 	}
 	
-	/*
+	/**
 	 * Getting home state
+	 * @return Home state
 	 */
 	public State getHomeState() {
 		return HomeState;
 	}
 	
-	/*
+	/**
 	 * Getting nintendo state
+	 * @return Nintendo state
 	 */
 	public State getNintendoState() {
 		return NintendoState;
 	}
 	
-	/*
+	/**
 	 * Getting xBox state
+	 * @return xBox state
 	 */
 	public State getXBoxState() {
 		return xBoxState;

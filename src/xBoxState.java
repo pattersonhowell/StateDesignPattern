@@ -1,5 +1,7 @@
-/*
+/**
  * Base class for xBox
+ * @author pattersonhowell
+ *
  */
 public class xBoxState implements State {
 	

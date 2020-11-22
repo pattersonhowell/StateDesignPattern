@@ -1,5 +1,7 @@
-/*
- * Base class for nintendo 
+/**
+ * Base class for nintendo
+ * @author pattersonhowell
+ *
  */
 public class NintendoState implements State {
 	

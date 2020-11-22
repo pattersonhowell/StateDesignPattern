@@ -1,5 +1,7 @@
-/*
- * Interface that holds methods for each state
+/**
+ * Interface that contains methods for each state
+ * @author pattersonhowell
+ *
  */
 public interface State {
 
